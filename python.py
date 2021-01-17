@@ -1,2 +1,3 @@
-jgiegergerg
-ergerger
+import telebot
+
+print("hello!")
